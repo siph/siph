@@ -1,8 +1,8 @@
 <p align="center">
   <!-- Monospace Font -->
   <samp>
-    <a href="https://www.dev.to/siph">blog</a> -
-    <a href="https://www.linkedin.com/in/chris-dawkins-72a2a818b">linkedin</a> -
+    <a href="https://www.dev.to/siph">dev.to</a> -
+    <a href="https://siph.github.io/blog">blog</a> -
     <a href="https://gitlab.com/xsiph">gitlab</a>
   </samp>
 </p>
